@@ -4,7 +4,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters
 import requests
 
 TELEGRAM_API_TOKEN = '7630329200:AAGL585AzCfLJPZ8xC-CNxyzHxma1lLjgmo'  # Replace with your Bot Token
-FASTAPI_URL = 'appsolutebot-production.up.railway.app'  # Replace with your FastAPI endpoint URL
+FASTAPI_URL = 'https://appsolutebot-production.up.railway.app'  # Replace with your FastAPI endpoint URL
 
 async def start(update: Update, context):
     # Send a welcome message to the user when they start the conversation
