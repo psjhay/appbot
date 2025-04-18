@@ -1,5 +1,6 @@
 # app.py
 from fastapi import FastAPI, Request
+from fastapi.responses import HTMLResponse
 from pydantic import BaseModel
 import google.generativeai as genai
 from llama_index.core import VectorStoreIndex, SimpleDirectoryReader, Settings
