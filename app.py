@@ -35,3 +35,12 @@ async def chat(request: ChatRequest):
     query = request.message
     response = query_engine.query(query)
     return {"response": str(response)}
+
+@app.get("/", response_class=HTMLResponse)
+async def home():
+    return """
+    <h2>🤖 Welcome to AppSolute Bot!</h2>
+    <p>This bot is live and ready to help you! 🚀</p>
+    <p>Send a POST request to <code>/chat</code> with a message to start chatting.</p>
+    """
+
