@@ -28,6 +28,11 @@ query_engine = index.as_query_engine(similarity_top_k=3)
 # FastAPI app
 app = FastAPI()
 
+def set_webhook():
+    webhook_url = 'https://your-domain.com/webhook'  # Replace with your public domain URL
+    response = requests.post(f'https://api.telegram.org/bot{TELEGRAM_API_TOKEN}/setWebhook', data={'url': webhook_url})
+    print(response.text)
+
 class ChatRequest(BaseModel):
     message: str
 
