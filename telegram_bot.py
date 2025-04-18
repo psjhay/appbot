@@ -5,7 +5,7 @@ import requests
 
 TELEGRAM_API_TOKEN = '7630329200:AAGL585AzCfLJPZ8xC-CNxyzHxma1lLjgmo'  # Replace with your Bot Token
 FASTAPI_URL = 'https://appsolutebot-production.up.railway.app'  # Replace with your FastAPI endpoint URL
-WEBHOOK_URL = "https://your-fastapi-server.com/webhook"  # Replace with your FastAPI webhook URL
+WEBHOOK_URL = "https://appsolutebot-production.up.railway.app/webhook"  # Replace with your FastAPI webhook URL
 
 # Start command handler
 async def start(update: Update, context):
