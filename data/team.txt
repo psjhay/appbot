@@ -1,0 +1,77 @@
+Name: Nwafor Livinus 
+Role: Sponsor
+Expertise: Software Engineering
+
+Name: Onah Sochima
+Role: Team Lead AppSolute(R and D team), Product Designer
+Expertise: Product Design/Management
+
+Name: Asako Joan
+Role: Team Lead Appsolute (Media Team/ AppSolute Kids)
+Expertise: Social Media Marketing
+
+Name: Fredrick Aniebonam
+Role: Assistant Team Lead (R and D team) / Frontend developer
+Expertise: Frontend development
+
+Name: Offor Awele
+Role: Assistant Team Lead (Media Team/ AppSolute Kids), Social Media Manager AppSolute (Kids)
+Expertise: Social Media Management
+
+Name: Mamah Joy
+Role: Research Data Scientist (R and D team), Social Media Manager AppSolute (Media Team), Script Writer AppSolute (Media Team)
+Expertise: Data Science, Technical Writing
+
+Name: Uche Solomon
+Role: Backend developer (R and D team)
+Expertise: Backend development
+
+Name: Aleke Job 
+Role: Script Writer (Media & Kids Team)
+Expertise: Technical Writing
+
+Name: Olarenwaju Elijah
+Role: Video Editor (Media Team)
+Expertise: Video Editing
+
+Name: Akpa Victor
+Role: Video Editor (Media & Kids Team)
+Expertise: Video Editing
+
+Name: Ahaneku Wisdom
+Role: Graphic Designer (Media Team)
+Expertise: Graphic Designing
+
+Name: Olakunle Oluwatobi
+Role: Graphic Designer (Media Team)
+Expertise: Graphic Designing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
